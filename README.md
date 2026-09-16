@@ -29,9 +29,3 @@ Throughout the pathway, I am building my understanding of neural networks with T
 Clone the repository:https://github.com/akash-gupta69/tensorflow_learnings.git
 
 Here's the link for the Program: [https://developers.google.com/learn/pathways/tensorflow#codelab-https://developers.google.com/codelabs/tensorflow-4-cnns]
-git clone https://github.com/akash-gupta69/tensorflow_learnings.git
-cd tensorflow_learnings
-
-```
-
-```
